@@ -1,4 +1,5 @@
 # YOLOV3 based Object Detection using Carla Simulator
+
 In this project,
 
 YoloV3 Tensorflow implementation forked from: https://github.com/YunYang1994/tensorflow-yolov3 
@@ -18,22 +19,35 @@ https://user-images.githubusercontent.com/81799459/224787076-0e9bc4b8-806d-4d54-
 Windows 11 Carla 0.9.14 python 3.7.5 tensorflow-gpu 1.15.0 pygame 1.9.6 opencv-python 4.2.0.34 numpy 1.18.3 pillow 7.1.2
 
 pip install "tensorflow>=1.15,<2.0"
+
 pip install --upgrade tensorflow-hub
 
 # Project Directory Structure
 
 ├ .CARLA_0.9.14
+
 │   ├── CarlaUE4
+
 │   ├── Co-Simulation
+
 │   ├── Engine
+
 │   ├── HDMaps
+
 │   ├── PythonAPI
+
 │   │   ├── carla
+
 │   │   ├── util
+
 │   │   ├── examples
+
 │   │   │ 	├── yolov3_object_detection.py
-│   │   │ 	├── tensorflow_yolov3    
+
+│   │   │ 	├── tensorflow_yolov3  
+
 │   │   │ 	│   │ ├── carla
+
 │   │   │ 	│   │	│   ├── utils.py
 
 
@@ -49,9 +63,11 @@ git pull origin master
 git submodule update --init --recursive
 
 Download COCO weights from this link: https://github.com/YunYang1994/tensorflow-yolov3/releases/download/v1.0/yolov3_coco.tar.gz
+
 wget https://github.com/YunYang1994/tensorflow-yolov3/releases/download/v1.0/yolov3_coco.tar.gz
 
 extract this file under the below path: ..\CARLA_0.9.14\PythonAPI\examples\tensorflow-yolov3\checkpoint
+
 tar -xvf yolov3_coco.tar.gz
 
 (type these command at the ..\CARLA_0.9.14\\PythonAPI\examples\tensorflow_yolov3)
