@@ -36,7 +36,7 @@ Windows 11 Carla 0.9.14 python 3.7.5 tensorflow-gpu 1.15.0 pygame 1.9.6 opencv-p
     │   │   │ 	├── yolov3_object_detection.py
     │   │   │ 	├── tensorflow_yolov3  
     │   │   │ 	│   │ ├── carla
-    │   │   │ 	│   │	│   ├── utils.py
+    │   │   │ 	│   │ │   ├── utils.py
 
 
 # Setup
