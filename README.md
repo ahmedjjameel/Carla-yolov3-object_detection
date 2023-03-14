@@ -16,14 +16,17 @@ https://user-images.githubusercontent.com/81799459/224787076-0e9bc4b8-806d-4d54-
 
 # The Environment
 
-Windows 11, 
-Carla 0.9.14, 
-python 3.7.5, 
-tensorflow-gpu 1.15.0, 
-pygame 1.9.6, 
-opencv-python 4.2.0.34, 
-numpy 1.18.3, 
-pillow 7.1.2
+    •	Windows 11, 
+    •	Carla 0.9.14, 
+    •	python 3.7.5, 
+    •	tensorflow-gpu 1.15.0, 
+    •	pygame 1.9.6, 
+    •	opencv-python 4.2.0.34, 
+    •	numpy 1.18.3, 
+    •	pillow 7.1.2
+
+ 
+
 
     pip install "tensorflow>=1.15,<2.0"
     pip install --upgrade tensorflow-hub
