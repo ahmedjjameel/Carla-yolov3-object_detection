@@ -1,6 +1,6 @@
 # YOLOV3 based Object Detection using Carla Simulator
 
-In this project,
+In this project, an object detection system based on YOLOv3 algorithm is implemented using Carla simulator.
 
 YoloV3 Tensorflow implementation forked from: https://github.com/YunYang1994/tensorflow-yolov3 
 
