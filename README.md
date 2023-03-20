@@ -60,6 +60,7 @@ Download COCO weights from this link: https://github.com/YunYang1994/tensorflow-
     wget https://github.com/YunYang1994/tensorflow-yolov3/releases/download/v1.0/yolov3_coco.tar.gz
 
 extract this file under the below path: ..\CARLA_0.9.14\PythonAPI\examples\tensorflow-yolov3\checkpoint
+    
     tar -xvf yolov3_coco.tar.gz
 
 (type these command at the ..\CARLA_0.9.14\\PythonAPI\examples\tensorflow_yolov3)
