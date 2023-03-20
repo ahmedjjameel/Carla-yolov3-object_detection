@@ -17,7 +17,6 @@ https://user-images.githubusercontent.com/81799459/224787076-0e9bc4b8-806d-4d54-
 
 # The Environment
 
-    •	Windows 11, 
     •	Carla 0.9.14, 
     •	python 3.7.5, 
     •	tensorflow-gpu 1.15.0, 
