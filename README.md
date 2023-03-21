@@ -5,12 +5,10 @@ In this project, an object detection system based on YOLOv3 algorithm is impleme
 YoloV3 Tensorflow implementation forked from: https://github.com/YunYang1994/tensorflow-yolov3 
 
 
-![gif img](https://user-images.githubusercontent.com/81799459/224787052-b0d1ba36-252d-4dda-9f0a-ceb95feff586.png)
 
 
 
-
-https://user-images.githubusercontent.com/81799459/224787076-0e9bc4b8-806d-4d54-85d4-ef5c9b733003.mp4
+![carla](https://user-images.githubusercontent.com/81799459/226528328-0f440c75-01f0-4e42-b441-51180b6d4629.gif)
 
 
 
