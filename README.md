@@ -8,7 +8,7 @@ YoloV3 Tensorflow implementation forked from: https://github.com/YunYang1994/ten
 
 
 
-![carla](https://user-images.githubusercontent.com/81799459/226528328-0f440c75-01f0-4e42-b441-51180b6d4629.gif)
+
 
 
 
@@ -79,6 +79,8 @@ Start detecting vehicles, pedestrians or bicycles.
 
     cd C:\CarlaSimulator\PythonAPI\examples && python yolov3_object_detection.py
 
+
+![carla](https://user-images.githubusercontent.com/81799459/226528328-0f440c75-01f0-4e42-b441-51180b6d4629.gif)
 
 
 # References
