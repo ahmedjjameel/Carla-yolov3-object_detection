@@ -1,4 +1,4 @@
-# YOLOV3 based Object Detection using Carla Simulator
+## YOLOV3 based Object Detection using Carla Simulator
 
 In this project, an object detection system based on YOLOv3 algorithm is implemented using Carla simulator.
 
@@ -13,7 +13,7 @@ YoloV3 Tensorflow implementation forked from: https://github.com/YunYang1994/ten
 
 
 
-## The Environment
+### The Environment
 
 Carla 0.9.14, python 3.7.5, tensorflow-gpu 1.15.0, pygame 1.9.6, opencv-python 4.2.0.34, numpy 1.18.3, pillow 7.1.2
 
@@ -24,7 +24,7 @@ Carla 0.9.14, python 3.7.5, tensorflow-gpu 1.15.0, pygame 1.9.6, opencv-python 4
     pip install --upgrade tensorflow-hub
 
 
-## Project Directory Structure
+### Project Directory Structure
 
     ├ .CARLA_0.9.14
     │   ├── CarlaUE4
@@ -41,7 +41,7 @@ Carla 0.9.14, python 3.7.5, tensorflow-gpu 1.15.0, pygame 1.9.6, opencv-python 4
     │   │   │ 	│   │ │   ├── utils.py
 
 
-## Setup
+### Setup
 
 Open a command line Go to the Carla Simulator examples path ..\CARLA_0.9.14\PythonAPI\examples
 
@@ -83,7 +83,7 @@ Start detecting vehicles, pedestrians or bicycles.
 ![carla](https://user-images.githubusercontent.com/81799459/226528328-0f440c75-01f0-4e42-b441-51180b6d4629.gif)
 
 
-# References
+## References
 1. 
 2.
 3.
