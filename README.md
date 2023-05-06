@@ -7,7 +7,7 @@ YOLOv3 Tensorflow implementation forked from: https://github.com/YunYang1994/ten
 
 ### The Environment
 
-Carla 0.9.14, python 3.7.5, tensorflow-gpu 1.15.5, pygame 1.9.6, opencv-python 4.2.0.34, numpy 1.18.3, pillow 7.1.2
+Carla 0.9.14, python 3.7.5, tensorflow-gpu 1.15.5, pygame 1.9.6, opencv-python 4.7.0.72, numpy 1.18.3, pillow 7.1.2
 
  Install tensorflow-gpu 1.15.5 using:
 
