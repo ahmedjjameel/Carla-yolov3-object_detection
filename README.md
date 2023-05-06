@@ -20,8 +20,9 @@ Carla 0.9.14, python 3.7.5, tensorflow-gpu 1.15.0, pygame 1.9.6, opencv-python 4
  Install tensorflow-gpu 1.15.0 using:
 
 
-    pip install "tensorflow>=1.15,<2.0"
-    pip install --upgrade tensorflow-hub
+     pip install tensorflow-gpu==1.15.5    
+     pip install tensorflow_hub
+     pip install tensorflow_datasets
 
 
 ### Project Directory Structure
