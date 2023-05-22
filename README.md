@@ -76,10 +76,5 @@ Start detecting vehicles, pedestrians or bicycles.
 ![carla](https://user-images.githubusercontent.com/81799459/226528328-0f440c75-01f0-4e42-b441-51180b6d4629.gif)
 
 
-## References
-1. 
-2.
-3.
-
 
 
